@@ -1,6 +1,6 @@
 <script>
-  import Header from './components/header.svelte';
-  let first_name = 'Seppo';
+  import Header from './components/header.svelte'
+  let first_name = 'Seppo'
 </script>
 
 <!-- Imported component header from src/components/header.svelte-->
