@@ -4,7 +4,7 @@
 </script>
 
 <!-- Imported component header from src/components/header.svelte-->
-<Header text={'This is a Header!'} />
+<Header text={'This is a Header!!'} />
 <div class="main">
   <h1>svelte-sass-template</h1>
   <p class="red">SASS is working!</p>
