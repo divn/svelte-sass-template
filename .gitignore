@@ -1,5 +1,7 @@
 /node_modules/
 /public/build/
 .env
+.eslintrc.json
+.prettierrc.json
 
 .DS_Store

@@ -1,0 +1,13 @@
+$color: red;
+
+.main {
+  background-color: blue;
+
+  h1 {
+    color: yellow;
+  }
+
+  .red {
+    background: $color;
+  }
+}
